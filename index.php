@@ -6,6 +6,6 @@
 </head>
 
 <body>
-Лето солнце море песок<img src="citati_o_lete_3.jpg" width="600" height="400" longdesc="citati_o_lete_3.jpg" />
+Лето отдых море
 </body>
 </html>
